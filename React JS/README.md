@@ -40,8 +40,8 @@ Its popularity stems from its flexibility and simplicity and this makes it the f
       - `"start": "PORT=3001 react-scripts start"`<br/>
     ![start script modified](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-rikeshkarma/blob/main/React%20JS/snapshots/start%20script%20changed.png)
     - Now we can check the port using npm start.<br/>
-    ![run the application](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-rikeshkarma/blob/main/React%20JS/snapshots/run%20the%20application.png)<br/>
-    ![print hello react.js](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-rikeshkarma/blob/main/React%20JS/snapshots/port%203001.png)
+    ![run the application](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-rikeshkarma/blob/main/React%20JS/snapshots/port%203001.png)<br/>
+    ![print hello react.js](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-rikeshkarma/blob/main/React%20JS/snapshots/running%20on%20port%203001.png)
     
 
 	
