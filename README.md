@@ -6,13 +6,13 @@
  -  Install pm2 tool and create 4 clusters of bothe Node's.
  - Delete all 4 clusters one-by-one
 
-# [Node JS Solution]()
+# [Node JS Solution](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-rikeshkarma/tree/main/Node%20JS)
 
 ### React JS:
  - Install React.js.
  - Creating a React Application and print message "Hello React.js"
  - Change the default port 3000 to 3001
 
-# [React JS Solution]()
+# [React JS Solution](https://github.com/LF-DevOps-Intern/4_1_react-nodejs-krishna-rikeshkarma/tree/main/React%20JS)
 
 
